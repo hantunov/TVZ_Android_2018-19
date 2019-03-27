@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KalkulatorAntunovic</string>
+    <string name="weight_hint">Težina (kg)</string>
+    <string name="result_hint">Unesite vaše podatke, pritisnite \"računaj\" i vaš indeks tjelesne mase biti će prikazan ovdje.</string>
+    <string name="height_hint">Visina (cm)</string>
+    <string name="calculate_button">RAČUNAJ</string>
+    <string name="app_title">Kalkulator Indeksa Tjelesne Mase (BMI)</string>
+    <string name="result_text">"Vaš BMI je: "</string>
+    <string name="background_color_picker_default">Odaberite boju pozadine</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">KalkulatorAntunovic</string>
+    <string name="app_title">Body Mass Index (BMI) Calculator</string>
+    <string name="height_hint">Height (cm)</string>
+    <string name="weight_hint">Weight (kg)</string>
+    <string name="calculate_button">CALCULATE</string>
+    <string name="result_hint">Please enter your stats above, press calculate and your BMI will be displayed here.</string>
+    <string name="result_text">Your BMI is: </string>
+
+    <string name="background_color_picker_default">Choose a background color</string>
+
+    <string-array name="background_colors">
+        <item>Background color - White</item>
+        <item>Background color - Grey</item>
+        <item>Background color - Blue</item>
+    </string-array>
+
+</resources>
